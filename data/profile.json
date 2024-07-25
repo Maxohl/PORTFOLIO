@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Maximilian C Ohlweiler",
+  "photo": "https://github.com/Maxohl/PORTFOLIO/blob/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/1517344515789.jpg",
+  "job": "Free lancer developer",
+  "location": "Imbituba - SC",
+  "phone": "(48) 9 9846-40785",
+  "email": "maxohl12@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -12,12 +12,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/icons/tools/js.svg"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/icons/tools/python.svg"
       },
       {
         "name": "React",
@@ -28,8 +28,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/assets/img/icons/tools/css.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/assets/img/icons/tools/git.svg"
       }
     ],
     "softSkills": [
@@ -42,9 +46,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (avançado)"
   ],
   "portfolio": [
     {
@@ -60,19 +62,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Full stack Developer / IMBITUBA PILOTS",
+      "period": "Feb 2020 - Nov 2021",
+      "description": "Sistema online de Requisições de Serviços de Praticagem. Envio de e-mails automático quando requisições são realizadas. Requisições condicionadas montadas e enviadas automáticamente quando Navio condição realiza requisição. Desenvolvido usando Nodejs e React."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Full stack Developer / ILP",
+      "period": "Feb 2018 - Jan 2020",
+      "description": "Sistema Integrado de Gerenciamento Operacional. Sistema para gerenciar operações portuárias diárias, calculando Peso Total Movimentado, Pelo Líquido e Peso Bruto automáticamente. Contém todos os relatórios necessários tipo : Daily Report, Stowage Plan, Mate's Cargo, Relatório de Prancha, Relatório de Operações e Operacional. Inclui Gerenciamento financeiro. Desenvolvido com Delphi utilizando banco de dados MySQL."
     }
   ]
 }
