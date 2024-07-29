@@ -12,7 +12,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Javascript",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/icons/tools/js.svg"
       },
       {
@@ -26,6 +26,14 @@
       {
         "name": "Mongodb",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
