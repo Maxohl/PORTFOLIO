@@ -58,13 +58,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Clone do Whatsapp",
+      "url": "https://github.com/Maxohl/whatsclone",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso Ministrado na DIO para análise de dados",
+      "url": "https://github.com/Maxohl/desafio_analise_dados",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Maxohl/pokedex",
       "github": true
     }
   ],
