@@ -13,11 +13,11 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8bassets/img/icons/tools/js.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8bassets/img/icons/tools/python.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "React",
@@ -37,11 +37,11 @@
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/mainassets/img/icons/tools/css.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/mainassets/img/icons/tools/git.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
