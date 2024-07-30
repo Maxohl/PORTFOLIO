@@ -1,6 +1,6 @@
 {
   "name": "Maximilian C Ohlweiler",
-  "photo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/1517344515789.jpg",
+  "photo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8bassets/img/1517344515789.jpg",
   "job": "Free lancer developer",
   "location": "Imbituba - SC",
   "phone": "(48) 9 9846-40785",
@@ -13,11 +13,11 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/icons/tools/js.svg"
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8bassets/img/icons/tools/js.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8b/assets/img/icons/tools/python.svg"
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/c2e538a9dc860820b80d222b36619b7481bbdc8bassets/img/icons/tools/python.svg"
       },
       {
         "name": "React",
@@ -37,11 +37,11 @@
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/assets/img/icons/tools/css.svg"
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/mainassets/img/icons/tools/css.svg"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/assets/img/icons/tools/git.svg"
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/mainassets/img/icons/tools/git.svg"
       }
     ],
     "softSkills": [
