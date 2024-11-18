@@ -24,6 +24,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/Maxohl/PORTFOLIO/main/data/imgs/angular.png"
+      },
+      {
         "name": "Mongodb",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
@@ -63,13 +67,18 @@
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para análise de dados",
-      "url": "https://github.com/Maxohl/desafio_analise_dados",
+      "name": "Blog Angular",
+      "url": "https://github.com/Maxohl/angular-blog",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
       "url": "https://github.com/Maxohl/pokedex",
+      "github": true
+    },
+    {
+      "name": "Clone de um blog Buzzfeed",
+      "url": "https://github.com/Maxohl/projeto-buzzfeed",
       "github": true
     }
   ],
